@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Vivekanand!](https://bio.link/kunalk) 
 <a href="https://www.facebook.com/vivekanand.kumar1998">
-  <img align="left" width="40px" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-clipart-flat-facebook-logo-png-icon-circle-22.png" />
+  <img align="left" width="40px" src="https://www.freeiconspng.com/uploads/photos-facebook-logo-png-transparent-background-13.png" />
 </a>
 
 <a href="mailto:mailofvivekanand@gmail.com">
